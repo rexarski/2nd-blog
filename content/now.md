@@ -9,6 +9,7 @@ Currently:
 - Reading *Dune* by Frank Herbert.
 - Learning D3.js to expand my data visualization arsenal.
 - Practicing [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) to organize my digital “stuffs”.
+- Building a [photo wall](https://airavo.netlify.app/).
 
 Previously:
 

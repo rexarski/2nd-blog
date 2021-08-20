@@ -78,22 +78,22 @@ params:
             Check out my [**now**](/now/) page for what I’m currently up to, or check out some of my [**projects**](/projects/).
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/rexarski"
-        # - name: stackoverflow
-        #   url: "https://stackoverflow.com"
         - name: github
           url: "https://github.com/rexarski"
-        - name: rss
-          url: "index.xml"
+        - name: twitter
+          url: "https://twitter.com/rexarski"
         - name: telegram
           url: "https://t.me/itsnopie"
-        - name: email
-          url: "https://world.hey.com/qrui"
-        - name: keybase
-          url: "https://keybase.io/rexarski/chat"
-        - name: flickr
-          url: "https://airavo.netlify.app/"
+        - name: rss
+          url: "index.xml"
+        # - name: stackoverflow
+        #   url: "https://stackoverflow.com"
+        # - name: email
+        #   url: "https://world.hey.com/qrui"
+        # - name: keybase
+        #   url: "https://keybase.io/rexarski/chat"
+        # - name: flickr
+        #   url: "https://airavo.netlify.app/"
 
     analytics:
         # google:
