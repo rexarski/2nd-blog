@@ -82,8 +82,8 @@ params:
           url: "https://github.com/rexarski"
         - name: twitter
           url: "https://twitter.com/rexarski"
-        - name: telegram
-          url: "https://t.me/itsnopie"
+        # - name: telegram
+        #   url: "https://t.me/itsnopie"
         - name: rss
           url: "index.xml"
         # - name: stackoverflow
