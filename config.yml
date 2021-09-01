@@ -82,16 +82,18 @@ params:
           url: "https://github.com/rexarski"
         - name: twitter
           url: "https://twitter.com/rexarski"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/rqiu"
         # - name: telegram
         #   url: "https://t.me/itsnopie"
+        - name: keybase
+          url: "https://keybase.io/rexarski/chat"
         - name: rss
           url: "index.xml"
         # - name: stackoverflow
         #   url: "https://stackoverflow.com"
         # - name: email
         #   url: "https://world.hey.com/qrui"
-        # - name: keybase
-        #   url: "https://keybase.io/rexarski/chat"
         # - name: flickr
         #   url: "https://airavo.netlify.app/"
 
