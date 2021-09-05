@@ -4,9 +4,10 @@ layout: "single"
 ShowBreadCrumbs: false
 ---
 
+
 Currently:
 
-- Reading *Dune* by Frank Herbert.
+- Reading *Children of Dune* by Frank Herbert. Here is my [GoodReads](https://www.goodreads.com/qrui ) profile.
 - Learning D3.js to expand my data visualization arsenal.
 - Practicing [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) to organize my digital “stuffs”.
 - Building a [photo wall](https://airavo.netlify.app/).
