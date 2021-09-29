@@ -1,4 +1,4 @@
-baseURL: "https://qrui.xyz"
+baseURL: 'https://qrui.xyz'
 title: Ruì Qiū
 paginate: 7
 theme: PaperMod
@@ -22,8 +22,8 @@ params:
     keywords: [Blog, Portfolio, PaperMod]
     author: Rui Qiu
     # author: ["Me", "You"] # multiple authors
-    images: ["/open_graph.png"]
-    DateFormat: "January 2, 2006"
+    images: ['/open_graph.png']
+    DateFormat: 'January 2, 2006'
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
@@ -43,14 +43,14 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "/favicon.ico"
-        favicon16x16: "/favicon-16x16.png"
-        favicon32x32: "/favicon-32x32.png"
-        apple_touch_icon: "/apple-touch-icon.png"
-        safari_pinned_tab: "/safari-pinned-tab.svg"
+        favicon: '/favicon.ico'
+        favicon16x16: '/favicon-16x16.png'
+        favicon32x32: '/favicon-32x32.png'
+        apple_touch_icon: '/apple-touch-icon.png'
+        safari_pinned_tab: '/safari-pinned-tab.svg'
 
     label:
-        text: "Ruì Qiū"
+        text: 'Ruì Qiū'
         icon: /apple-touch-icon.png
         iconHeight: 35
 
@@ -58,8 +58,8 @@ params:
     profileMode:
         enabled: false # needs to be explicitly set
         title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        subtitle: 'This is subtitle'
+        imageUrl: '<img location>'
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
@@ -79,21 +79,21 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/rexarski"
+          url: 'https://github.com/rexarski'
         - name: twitter
-          url: "https://twitter.com/rexarski"
+          url: 'https://twitter.com/rexarski'
         - name: linkedin
-          url: "https://www.linkedin.com/in/rqiu"
-        # - name: telegram
-        #   url: "https://t.me/itsnopie"
+          url: 'https://www.linkedin.com/in/rqiu'
+        - name: telegram
+          url: 'https://t.me/itsnopie'
         - name: keybase
-          url: "https://keybase.io/rexarski/chat"
+          url: 'https://keybase.io/rexarski/chat'
         - name: rss
-          url: "index.xml"
+          url: 'index.xml'
         # - name: stackoverflow
         #   url: "https://stackoverflow.com"
         # - name: email
-        #   url: "https://world.hey.com/qrui"
+        #   url: 'mailto:rexarski@gmail.com'
         # - name: flickr
         #   url: "https://airavo.netlify.app/"
 
@@ -111,8 +111,8 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/rexarski/blog/content"
-        Text: "Suggest Changes" # edit text
+        URL: 'https://github.com/rexarski/blog/content'
+        Text: 'Suggest Changes' # edit text
         appendFilePath: true # to append file path to Edit link
 
     taxonomies:
@@ -132,7 +132,6 @@ params:
         #     # noClasses: false
         #     style: monokai
 
-
     # for search
     # https://fusejs.io/api/options.html
     fuseOpts:
@@ -142,7 +141,7 @@ params:
         distance: 1000
         threshold: 0.4
         minMatchCharLength: 0
-        keys: ["title", "permalink", "summary", "content"]
+        keys: ['title', 'permalink', 'summary', 'content']
 menu:
     main:
         - name: archive
@@ -176,7 +175,6 @@ outputs:
         - HTML
         - RSS
         - JSON
-
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
