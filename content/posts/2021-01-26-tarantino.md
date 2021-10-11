@@ -30,7 +30,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-![logo](/image/tarantino/tarantino-logo.png)
+{{< figure align=left src="/image/tarantino/tarantino-logo.png" width=25% >}}
 
 I want to practice the contents covered in [R packages](https://r-pkgs.org/), and learn by example. So I am trying to make a copy of of `wesanderson`, an R package listing representative color palettes of Wes Anderson's movies. My [`tarantino`](https://github.com/rexarski/tarantino) might not be that practical in real life, since it's not that vivid in color selections. It just strengthens my understanding of the R package dev workflow, as well as the package structures, some components not covered in that previous book. (It is still a must-read.)
 

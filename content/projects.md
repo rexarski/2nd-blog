@@ -4,21 +4,23 @@ layout: "single"
 ShowBreadCrumbs: false
 ---
 
-### [xG visualized](/posts/2021-04-07-visualize-xg/)
+### [Untitled basketball analytics portfolio (2021)](https://rqiu.georgetown.domains)
 
-![xg-visualized](https://github.com/rexarski/box2box/blob/main/match-analysis/18705-Fulham-vs-Leeds-xg-complete.png?raw=true)
+### [box2box (ongoing)](https://github.com/rexarski/box2box)
 
-### [Jiangsu FC's All-time Top Goalscorers](/posts/2021-03-12-a-pipe-dream-jiangsu-fc/)
+A repository of sports analytics experiments.
 
-![jiangsu](https://github.com/rexarski/box2box/blob/main/a-pipe-dream-jiangsu-fc/jiangsu-top-scorers-logo.png?raw=true)
+<!-- ![img](/box2box.png) -->
+<!-- ![name](/box2box.png#center) -->
 
-### [tarantino](/posts/2021-01-26-tarantino/): color palettes based on Quentin Tarantino's movies
+{{< figure align=center src="/box2box.png" width=70% >}}
 
-<!-- [GitHub](https://github.com/rexarski/tarantino). -->
 ***
 
 ## Previously
 
+- **xG visualization pipeline (2021)**. **[Blog](/posts/2021-04-07-visualize-xg/). [Twitter](https://twitter.com/rexarski/status/1377860255271428097?s=20). [GitHub](https://github.com/rexarski/box2box/tree/main/match-analysis).**
+- **tarantino (2021)**. A color palette based on Quentin Tarantino's movies. **[Blog](/posts/2021-01-26-tarantino/). [GitHub](https://github.com/rexarski/tarantino).**
 - **@canberramapbot (2020).** A Twitter bot posts bird's-eye views over Canberra periodically. **[GitHub](https://github.com/rexarski/canberramapbot). [Twitter](https://twitter.com/canberramapbot).**
 - **sentRy (2020)**. A telegram bot monitoring Django error logs. **[Blog](/posts/2020-02-14-sentry/). [GitHub](https://github.com/rexarski/sentRy).**
 - **aussie (2019).** Scraped over 76,000 courses offered by some top Australian unis in 2020. **[GitHub](https://github.com/rexarski/aussie).**
