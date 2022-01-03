@@ -73,9 +73,10 @@ params:
     homeInfoParams:
         Title: "Greetings, traveler! \U0001F44B"
         Content: >
-            My name is Ruì. I am a graduate student at Georgetown University, and this is my personal blog.
+            Welcome to my blog.
 
-            Check out my [**now**](/now/) page for what I’m currently up to, or check out some of my [**projects**](/projects/).
+
+            来的都是客。
 
     socialIcons:
         - name: github
@@ -86,6 +87,12 @@ params:
           url: 'https://www.linkedin.com/in/rqiu'
         - name: telegram
           url: 'https://t.me/itsnopie'
+        - name: goodreads
+          url: 'https://www.goodreads.com/qrui'
+        - name: reddit
+          url: 'https://www.reddit.com/user/rexarski/'
+        - name: steam
+          url: 'https://steamcommunity.com/id/rexarski/'
         - name: keybase
           url: 'https://keybase.io/rexarski/chat'
         - name: rss

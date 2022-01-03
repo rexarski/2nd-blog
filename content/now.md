@@ -7,14 +7,19 @@ ShowBreadCrumbs: false
 
 Currently:
 
-- Reading *Children of Dune* by Frank Herbert. Here is my [GoodReads](https://www.goodreads.com/qrui ) profile.
+- Reading
+    - *[Atlas of the Invisible](https://www.goodreads.com/book/show/56769539-atlas-of-the-invisible)*,
+    - *[Mastering Shiny](https://www.goodreads.com/book/show/54308930-mastering-shiny)*,
+    - *[Data Sketches](https://www.goodreads.com/book/show/52671443-data-sketches)*.
 - Learning D3.js to expand my data visualization arsenal.
 - Practicing [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) to organize my digital “stuffs”.
-- Building a [photo wall](https://airavo.netlify.app/).
+- Playing Ring Fit Adventure.
+- Meditating on daily transit.
 
 Previously:
 
 - Maintained data-viz-oriented curating [newsletter](https://world.hey.com/qrui). You can also find the archived issues [here](/nopie/).
+- Built a [photo wall](https://airavo.netlify.app/).
 - Lived in Australia, Canada and China.
 - Hold degrees in math, cs and stats.
 - Played semi-competitive fps game in college.
