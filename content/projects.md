@@ -1,11 +1,12 @@
 ---
-title: "Project"
+title: "Projects"
 layout: "single"
 ShowBreadCrumbs: false
 ---
 
 ## Ongoing
 
+- **[rexarski.com](https://rexarski.com)**, some experiments with storytelling and generative arts.
 - **[CeleritasML](https://celeritasml.netlify.app/)**, a collection of machine learning related projects.
 - **[box2box](https://github.com/rexarski/box2box)**, a repository of sports analytics experiments.
 
