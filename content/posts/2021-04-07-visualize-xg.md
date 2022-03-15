@@ -48,7 +48,7 @@ Then I use `geom_point()` to mark the actual goals/own goals events, and `ggforc
 
 Being lazy is always a main drive of maintaining reproducibility. If it saves my time, it is a good one.
 
-![img1](/image/visualize-xg/18720-Chelsea-vs-West%20Bromwich%20Albion-xg-timeline.png)
+![img1](https://raw.githubusercontent.com/rexarski/box2box/main/match-analysis/18881-Manchester%20United-vs-Newcastle%20United-xg-timeline.png)
 
 As you can see, there are some obvious issues in the graph:
 
@@ -70,7 +70,9 @@ Here we just map `[0, 1]` to `[0, 100]` with `pitch_opta`.
 
 Another note for the size of shot points: although the size of a point should better be proportional to its value, I still make a decision to transform the value of xG to make the dots more clear in this one.
 
-![img2](/image/visualize-xg/18720-Chelsea-vs-West%20Bromwich%20Albion-xg-court.png)
+> Update on 2022-03-15. Sorry the following visualization came from another game:
+
+![img2](https://github.com/rexarski/box2box/blob/main/match-analysis/18727-Manchester%20City-vs-Leeds-xg-court.png?raw=true)
 
 After taking a detour to `{StatsBombR}` and other function in `{ggsoccer}`, I manage to finish the part 2 with more questions in my head:
 
@@ -82,7 +84,7 @@ I really don't like the idea of introducing a set of colors or symbols to compli
 
 The last part of this visualization project is to gain an insight of an individual player's xG, in comparison with other players' of course. A treemap with a subgroup of teams will fit this scenario.
 
-![img3](/image/visualize-xg/18720-Chelsea-vs-West%20Bromwich%20Albion-xg-contr.png)
+![img3](https://github.com/rexarski/box2box/blob/main/match-analysis/18881-Manchester%20United-vs-Newcastle%20United-xg-contr.png?raw=true)
 
 ## What's next?
 

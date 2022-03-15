@@ -38,7 +38,9 @@ I’m not sure if there is specific name for this type of graph, it does look li
 
 I followed Connor Rothschild’s [tutorial](https://www.connorrothschild.com/post/automation-scrollytell), and here’s the result[^1]:
 
-{{< giphy JzJVXHdBsg77nHbXkg >}}
+<!-- {{< giphy JzJVXHdBsg77nHbXkg >}} -->
+
+![shinystory](/image/gif/shinystory.gif)
 
 Also accessible at **[shinyapps.io](https://rexarski.shinyapps.io/shiny-scrollytell/)**.
 

@@ -71,12 +71,12 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Greetings, traveler! \U0001F44B"
+        Title: "qrui.xyz"
         Content: >
-            Welcome to my blog.
+            Live hard.(ง'̀-'́)ง
 
 
-            来的都是客。
+            认真生活。
 
     socialIcons:
         - name: github
@@ -89,12 +89,6 @@ params:
           url: 'https://t.me/itsnopie'
         - name: goodreads
           url: 'https://www.goodreads.com/qrui'
-        - name: reddit
-          url: 'https://www.reddit.com/user/rexarski/'
-        - name: steam
-          url: 'https://steamcommunity.com/id/rexarski/'
-        - name: keybase
-          url: 'https://keybase.io/rexarski/chat'
         - name: rss
           url: 'index.xml'
         # - name: stackoverflow

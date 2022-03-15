@@ -7,14 +7,17 @@ ShowBreadCrumbs: false
 
 Currently:
 
-- Reading
-    - *[Atlas of the Invisible](https://www.goodreads.com/book/show/56769539-atlas-of-the-invisible)*,
-    - *[Mastering Shiny](https://www.goodreads.com/book/show/54308930-mastering-shiny)*,
-    - *[Data Sketches](https://www.goodreads.com/book/show/52671443-data-sketches)*.
-- Learning D3.js to expand my data visualization arsenal.
+- Learning D3.js the hard way.
 - Practicing [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) to organize my digital “stuffs”.
 - Playing Ring Fit Adventure.
 - Meditating on daily transit.
+- Binge listening to unlistened podcasts whose number keeps growing every day.
+
+Recently:
+
+- March 12. [*Data Sketches*](https://www.goodreads.com/book/show/52671443-data-sketches). 🤍🤍🤍🤍🤍 (Creativity is built upon solid skills. JavaScript is modern and omnipotent.)
+- March 13. [*行方不明*](https://www.youtube.com/watch?v=mNk66eG9tZM). 🤍🤍🤍🤍🖤
+
 
 Previously:
 
