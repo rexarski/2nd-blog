@@ -71,7 +71,7 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "qrui.xyz"
+        Title: 'qrui.xyz'
         Content: >
             Live hard.(ง'̀-'́)ง
 
@@ -91,12 +91,6 @@ params:
           url: 'https://www.goodreads.com/qrui'
         - name: rss
           url: 'index.xml'
-        # - name: stackoverflow
-        #   url: "https://stackoverflow.com"
-        # - name: email
-        #   url: 'mailto:rexarski@gmail.com'
-        # - name: flickr
-        #   url: "https://airavo.netlify.app/"
 
     analytics:
         # google:
@@ -166,14 +160,10 @@ menu:
           name: now
           url: /now/
           weight: 50
-        - identifier: newsletter
-          name: newsletter
-          url: /nopie/
-          weight: 60
         - identifier: experiments
           name: experiments
           url: https://rexarski.com
-          weight: 70
+          weight: 60
 
 outputs:
     home:

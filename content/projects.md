@@ -13,12 +13,13 @@ ShowBreadCrumbs: false
 <!-- ![img](/box2box.png) -->
 <!-- ![name](/box2box.png#center) -->
 
-{{< figure align=center src="/box2box.png" width=70% >}}
+<!-- {{< figure align=center src="/box2box.png" width=70% >}} -->
 
 ***
 
 ## Previously
 
+- **[No pie newsletter (2021)](/nopie/).** A curated newsletter about data and vis.
 - **Basketball Analytics and Beyond: Analysis of 188,946 Shots (2021)**. [Portfolio](https://rexarski.github.io/rqiu.georgetown.domains/).
 - **xG visualization pipeline (2021)**. **[Blog](/posts/2021-04-07-visualize-xg/). [Twitter](https://twitter.com/rexarski/status/1377860255271428097?s=20). [GitHub](https://github.com/rexarski/box2box/tree/main/match-analysis).**
 - **tarantino (2021)**. A color palette based on Quentin Tarantino's movies. **[Blog](/posts/2021-01-26-tarantino/). [GitHub](https://github.com/rexarski/tarantino).**
